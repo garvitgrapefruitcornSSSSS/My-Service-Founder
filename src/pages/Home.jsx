@@ -246,9 +246,7 @@ const Home = () => {
 
       <footer className="footer">
         <div className="container">
-          <p>
-            Built with React, Leaflet & OpenStreetMap | 100% Free & Open Source
-          </p>
+        
         </div>
       </footer>
     </div>
